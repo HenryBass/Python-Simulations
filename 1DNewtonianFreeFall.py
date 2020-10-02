@@ -61,7 +61,3 @@ print('Momentum: ' + str(mass * (height / runTime)) + 'N')
 print('Time Spent in free fall: ' + str(timeToImpact))
 print()
 
-# To Do:
-# Add Terminal Velocity
-# Add warning for faster than Newtonian Physics
-# Slow time
